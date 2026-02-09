@@ -1,0 +1,23 @@
+[
+  {
+    "id":"s0001",
+    "title":"IELTS Part 1: 안전한 답변 구조(2문장)",
+    "ko":"짧게 끝내지 말고, 2문장으로 '답+이유/예시'까지 붙인다.",
+    "pattern":"(Answer) + (Reason/Example)",
+    "templates":[
+      {"en":"Yes, I do. I find it helps me stay organized.","ko":"네. 그게 정리정돈에 도움이 되거든요."},
+      {"en":"Not really. To be honest, I rarely have time on weekdays.","ko":"그다지요. 솔직히 평일엔 시간이 거의 없어요."}
+    ]
+  },
+  {
+    "id":"s0002",
+    "title":"연결어(Fluency) 5개만 고정","ko":"생각나는 대로 말하면 끊기니까, 연결어를 '자동반사'로 만든다.",
+    "items":[
+      {"en":"Actually, ...","ko":"사실 ..."},
+      {"en":"In my view, ...","ko":"내 생각엔 ..."},
+      {"en":"For example, ...","ko":"예를 들어 ..."},
+      {"en":"On the whole, ...","ko":"전반적으로 ..."},
+      {"en":"It depends, but ...","ko":"경우에 따라 다르지만 ..."}
+    ]
+  }
+]
