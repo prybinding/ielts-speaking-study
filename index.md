@@ -16,6 +16,12 @@ layout: none
       <a href="{{ '/days/day-001.html' | relative_url }}"><b>Day 1</b> — Introduction & Small Talk (Part 1)</a>
       <div class="note">말문 트기: 기본 구조 + 안전한 표현 + 즉답 연습</div>
     </div>
+
+    <div class="card">
+      <span class="badge">DAY 002</span>
+      <a href="{{ '/days/day-002.html' | relative_url }}"><b>Day 2</b> — IELTS Speaking</a>
+      <div class="note">Vocab 30 + speaking drills + SRS</div>
+    </div>
   </div>
 
   <hr>
