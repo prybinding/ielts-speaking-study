@@ -628,5 +628,215 @@
     "ipa": "/ˌvɑːlənˈtɪr/",
     "ko": "자원봉사하다/자원봉사자",
     "hint": "voluntary"
+  },
+  {
+    "id": "w0091",
+    "en": "in the long run",
+    "ipa": "/ɪn ðə lɔːŋ rʌn/",
+    "ko": "장기적으로",
+    "hint": "긴 달리기=장기"
+  },
+  {
+    "id": "w0092",
+    "en": "as far as I know",
+    "ipa": "/æz fɑːr æz aɪ noʊ/",
+    "ko": "내가 알기로는",
+    "hint": "지식 범위 한정"
+  },
+  {
+    "id": "w0093",
+    "en": "to some extent",
+    "ipa": "/tə sʌm ɪkˈstent/",
+    "ko": "어느 정도",
+    "hint": "extent=정도"
+  },
+  {
+    "id": "w0094",
+    "en": "from my perspective",
+    "ipa": "/frəm maɪ pərˈspektɪv/",
+    "ko": "내 관점에서는",
+    "hint": "perspective=관점"
+  },
+  {
+    "id": "w0095",
+    "en": "in general",
+    "ipa": "/ɪn ˈdʒenrəl/",
+    "ko": "일반적으로",
+    "hint": "general=일반"
+  },
+  {
+    "id": "w0096",
+    "en": "moreover",
+    "ipa": "/mɔːrˈoʊvər/",
+    "ko": "게다가",
+    "hint": "추가 근거"
+  },
+  {
+    "id": "w0097",
+    "en": "however",
+    "ipa": "/haʊˈevər/",
+    "ko": "하지만",
+    "hint": "반전 연결"
+  },
+  {
+    "id": "w0098",
+    "en": "as a result",
+    "ipa": "/æz ə rɪˈzʌlt/",
+    "ko": "그 결과",
+    "hint": "원인→결과"
+  },
+  {
+    "id": "w0099",
+    "en": "on the other hand",
+    "ipa": "/ɑn ði ˈʌðər hænd/",
+    "ko": "반면에",
+    "hint": "대조"
+  },
+  {
+    "id": "w0100",
+    "en": "in contrast",
+    "ipa": "/ɪn ˈkɑːntræst/",
+    "ko": "대조적으로",
+    "hint": "contrast=대비"
+  },
+  {
+    "id": "w0101",
+    "en": "in addition",
+    "ipa": "/ɪn əˈdɪʃən/",
+    "ko": "추가로",
+    "hint": "add=추가"
+  },
+  {
+    "id": "w0102",
+    "en": "in the meantime",
+    "ipa": "/ɪn ðə ˈmiːntaɪm/",
+    "ko": "그동안/한편",
+    "hint": "mean time=사이 시간"
+  },
+  {
+    "id": "w0103",
+    "en": "to be precise",
+    "ipa": "/tə bi prɪˈsaɪs/",
+    "ko": "정확히 말하면",
+    "hint": "precise=정확"
+  },
+  {
+    "id": "w0104",
+    "en": "for the most part",
+    "ipa": "/fɔːr ðə moʊst pɑːrt/",
+    "ko": "대부분은",
+    "hint": "most part=대부분"
+  },
+  {
+    "id": "w0105",
+    "en": "to the best of my knowledge",
+    "ipa": "/tə ðə best əv maɪ ˈnɑːlɪdʒ/",
+    "ko": "내가 아는 한에서는",
+    "hint": "지식 한정(안전 표현)"
+  },
+  {
+    "id": "w0106",
+    "en": "to be fair",
+    "ipa": "/tə bi fer/",
+    "ko": "공정하게 말하면",
+    "hint": "밸런스 잡기"
+  },
+  {
+    "id": "w0107",
+    "en": "I can relate to that",
+    "ipa": "/aɪ kæn rɪˈleɪt tə ðæt/",
+    "ko": "그거 공감돼",
+    "hint": "relate=연결/공감"
+  },
+  {
+    "id": "w0108",
+    "en": "I see what you mean",
+    "ipa": "/aɪ siː wʌt ju miːn/",
+    "ko": "무슨 말인지 알겠어",
+    "hint": "대화 리액션"
+  },
+  {
+    "id": "w0109",
+    "en": "come up with",
+    "ipa": "/kʌm ʌp wɪð/",
+    "ko": "(아이디어를) 떠올리다",
+    "hint": "up=위로 떠오르다"
+  },
+  {
+    "id": "w0110",
+    "en": "figure out",
+    "ipa": "/ˈfɪɡjər aʊt/",
+    "ko": "알아내다/해결하다",
+    "hint": "out=밖으로 꺼내다"
+  },
+  {
+    "id": "w0111",
+    "en": "handle",
+    "ipa": "/ˈhændl/",
+    "ko": "다루다/처리하다",
+    "hint": "핸들=조종"
+  },
+  {
+    "id": "w0112",
+    "en": "deal with",
+    "ipa": "/diːl wɪð/",
+    "ko": "대처하다/다루다",
+    "hint": "deal=거래→처리"
+  },
+  {
+    "id": "w0113",
+    "en": "cope with",
+    "ipa": "/koʊp wɪð/",
+    "ko": "버티다/대처하다",
+    "hint": "cope=대응"
+  },
+  {
+    "id": "w0114",
+    "en": "overcome",
+    "ipa": "/ˌoʊvərˈkʌm/",
+    "ko": "극복하다",
+    "hint": "over+come(넘어오다)"
+  },
+  {
+    "id": "w0115",
+    "en": "set a goal",
+    "ipa": "/set ə ɡoʊl/",
+    "ko": "목표를 세우다",
+    "hint": "set=설정"
+  },
+  {
+    "id": "w0116",
+    "en": "stick to",
+    "ipa": "/stɪk tuː/",
+    "ko": "(계획/규칙을) 지키다",
+    "hint": "스틱처럼 붙어있기"
+  },
+  {
+    "id": "w0117",
+    "en": "give up",
+    "ipa": "/ɡɪv ʌp/",
+    "ko": "포기하다",
+    "hint": "up=올려두다(포기)"
+  },
+  {
+    "id": "w0118",
+    "en": "keep going",
+    "ipa": "/kiːp ˈɡoʊɪŋ/",
+    "ko": "계속하다",
+    "hint": "끊기지 않기"
+  },
+  {
+    "id": "w0119",
+    "en": "make progress",
+    "ipa": "/meɪk ˈprɑːɡres/",
+    "ko": "진전이 있다",
+    "hint": "progress=진전"
+  },
+  {
+    "id": "w0120",
+    "en": "set a good example",
+    "ipa": "/set ə ɡʊd ɪɡˈzæmpəl/",
+    "ko": "좋은 본보기가 되다",
+    "hint": "example=예시"
   }
 ]
