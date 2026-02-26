@@ -418,5 +418,215 @@
     "ipa": "/ˈdrɔːbæk/",
     "ko": "단점",
     "hint": "draw+back"
+  },
+  {
+    "id": "w0061",
+    "en": "recommend",
+    "ipa": "/ˌrekəˈmend/",
+    "ko": "추천하다",
+    "hint": "re+commend(추천)"
+  },
+  {
+    "id": "w0062",
+    "en": "suggest",
+    "ipa": "/səˈdʒest/",
+    "ko": "제안하다",
+    "hint": "suggestion"
+  },
+  {
+    "id": "w0063",
+    "en": "choice",
+    "ipa": "/tʃɔɪs/",
+    "ko": "선택",
+    "hint": "choose의 명사"
+  },
+  {
+    "id": "w0064",
+    "en": "option",
+    "ipa": "/ˈɑːpʃən/",
+    "ko": "옵션, 선택지",
+    "hint": "optional"
+  },
+  {
+    "id": "w0065",
+    "en": "feature",
+    "ipa": "/ˈfiːtʃər/",
+    "ko": "특징, 기능",
+    "hint": "feature=기능"
+  },
+  {
+    "id": "w0066",
+    "en": "advantage",
+    "ipa": "/ədˈvæntɪdʒ/",
+    "ko": "장점",
+    "hint": "advantage ↔ drawback"
+  },
+  {
+    "id": "w0067",
+    "en": "cost-effective",
+    "ipa": "/ˌkɔːst ɪˈfektɪv/",
+    "ko": "가성비 좋은",
+    "hint": "cost 대비 effective"
+  },
+  {
+    "id": "w0068",
+    "en": "affordable",
+    "ipa": "/əˈfɔːrdəbəl/",
+    "ko": "부담 없는(가격)",
+    "hint": "afford(감당하다)"
+  },
+  {
+    "id": "w0069",
+    "en": "expensive",
+    "ipa": "/ɪkˈspensɪv/",
+    "ko": "비싼",
+    "hint": "expense"
+  },
+  {
+    "id": "w0070",
+    "en": "save money",
+    "ipa": "/seɪv ˈmʌni/",
+    "ko": "돈을 절약하다",
+    "hint": "save=절약"
+  },
+  {
+    "id": "w0071",
+    "en": "waste time",
+    "ipa": "/weɪst taɪm/",
+    "ko": "시간을 낭비하다",
+    "hint": "waste=낭비"
+  },
+  {
+    "id": "w0072",
+    "en": "take a break",
+    "ipa": "/teɪk ə breɪk/",
+    "ko": "쉬다(잠깐 휴식)",
+    "hint": "break=휴식"
+  },
+  {
+    "id": "w0073",
+    "en": "healthy",
+    "ipa": "/ˈhelθi/",
+    "ko": "건강한",
+    "hint": "health"
+  },
+  {
+    "id": "w0074",
+    "en": "unhealthy",
+    "ipa": "/ʌnˈhelθi/",
+    "ko": "건강하지 않은",
+    "hint": "un+healthy"
+  },
+  {
+    "id": "w0075",
+    "en": "exercise",
+    "ipa": "/ˈeksərsaɪz/",
+    "ko": "운동하다/운동",
+    "hint": "exercise"
+  },
+  {
+    "id": "w0076",
+    "en": "diet",
+    "ipa": "/ˈdaɪət/",
+    "ko": "식단",
+    "hint": "diet=식단"
+  },
+  {
+    "id": "w0077",
+    "en": "sleep schedule",
+    "ipa": "/sliːp ˈskedʒuːl/",
+    "ko": "수면 패턴(시간표)",
+    "hint": "schedule=시간표"
+  },
+  {
+    "id": "w0078",
+    "en": "focus",
+    "ipa": "/ˈfoʊkəs/",
+    "ko": "집중하다/집중",
+    "hint": "focus"
+  },
+  {
+    "id": "w0079",
+    "en": "distracted",
+    "ipa": "/dɪˈstræktɪd/",
+    "ko": "집중이 흐트러진",
+    "hint": "dis+tract(끌려가다)"
+  },
+  {
+    "id": "w0080",
+    "en": "plan",
+    "ipa": "/plæn/",
+    "ko": "계획(하다)",
+    "hint": "plan"
+  },
+  {
+    "id": "w0081",
+    "en": "prepare",
+    "ipa": "/prɪˈper/",
+    "ko": "준비하다",
+    "hint": "pre+pare(준비)"
+  },
+  {
+    "id": "w0082",
+    "en": "research",
+    "ipa": "/rɪˈsɜːrtʃ/",
+    "ko": "조사하다/연구",
+    "hint": "re+search"
+  },
+  {
+    "id": "w0083",
+    "en": "environment",
+    "ipa": "/ɪnˈvaɪrənmənt/",
+    "ko": "환경",
+    "hint": "environ=둘러싸다"
+  },
+  {
+    "id": "w0084",
+    "en": "pollution",
+    "ipa": "/pəˈluːʃən/",
+    "ko": "오염",
+    "hint": "pollute"
+  },
+  {
+    "id": "w0085",
+    "en": "recycle",
+    "ipa": "/ˌriːˈsaɪkəl/",
+    "ko": "재활용하다",
+    "hint": "re+cycle"
+  },
+  {
+    "id": "w0086",
+    "en": "public transport",
+    "ipa": "/ˈpʌblɪk ˈtrænspɔːrt/",
+    "ko": "대중교통",
+    "hint": "transport=교통"
+  },
+  {
+    "id": "w0087",
+    "en": "traffic jam",
+    "ipa": "/ˈtræfɪk dʒæm/",
+    "ko": "교통 체증",
+    "hint": "jam=막힘"
+  },
+  {
+    "id": "w0088",
+    "en": "commuting time",
+    "ipa": "/kəˈmjuːtɪŋ taɪm/",
+    "ko": "통근 시간",
+    "hint": "commute+time"
+  },
+  {
+    "id": "w0089",
+    "en": "local festival",
+    "ipa": "/ˈloʊkəl ˈfestɪvəl/",
+    "ko": "지역 축제",
+    "hint": "festival=축제"
+  },
+  {
+    "id": "w0090",
+    "en": "volunteer",
+    "ipa": "/ˌvɑːlənˈtɪr/",
+    "ko": "자원봉사하다/자원봉사자",
+    "hint": "voluntary"
   }
 ]
