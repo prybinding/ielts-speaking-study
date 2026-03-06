@@ -838,5 +838,215 @@
     "ipa": "/set ə ɡʊd ɪɡˈzæmpəl/",
     "ko": "좋은 본보기가 되다",
     "hint": "example=예시"
+  },
+  {
+    "id": "w0121",
+    "en": "beneficial",
+    "ipa": "/ˌbenɪˈfɪʃəl/",
+    "ko": "유익한, 이로운",
+    "hint": "benefit+ial"
+  },
+  {
+    "id": "w0122",
+    "en": "harmful",
+    "ipa": "/ˈhɑːrmfəl/",
+    "ko": "해로운",
+    "hint": "harm"
+  },
+  {
+    "id": "w0123",
+    "en": "significant",
+    "ipa": "/sɪɡˈnɪfɪkənt/",
+    "ko": "중요한, 상당한",
+    "hint": "sign=표시"
+  },
+  {
+    "id": "w0124",
+    "en": "minor",
+    "ipa": "/ˈmaɪnər/",
+    "ko": "사소한",
+    "hint": "mini"
+  },
+  {
+    "id": "w0125",
+    "en": "impact",
+    "ipa": "/ˈɪmpækt/",
+    "ko": "영향(을 주다)",
+    "hint": "im+팩트"
+  },
+  {
+    "id": "w0126",
+    "en": "influence",
+    "ipa": "/ˈɪnfluəns/",
+    "ko": "영향(을 미치다)",
+    "hint": "in+flu(흐름)"
+  },
+  {
+    "id": "w0127",
+    "en": "consequence",
+    "ipa": "/ˈkɑːnsəkwens/",
+    "ko": "결과, 여파",
+    "hint": "con+sequence"
+  },
+  {
+    "id": "w0128",
+    "en": "cause and effect",
+    "ipa": "/kɔːz ænd ɪˈfekt/",
+    "ko": "원인과 결과",
+    "hint": "그대로"
+  },
+  {
+    "id": "w0129",
+    "en": "encourage",
+    "ipa": "/ɪnˈkɜːrɪdʒ/",
+    "ko": "장려하다",
+    "hint": "en+courage(용기)"
+  },
+  {
+    "id": "w0130",
+    "en": "discourage",
+    "ipa": "/dɪsˈkɜːrɪdʒ/",
+    "ko": "억제하다, 단념시키다",
+    "hint": "dis+encourage"
+  },
+  {
+    "id": "w0131",
+    "en": "trend",
+    "ipa": "/trend/",
+    "ko": "추세, 유행",
+    "hint": "트렌드"
+  },
+  {
+    "id": "w0132",
+    "en": "popular",
+    "ipa": "/ˈpɑːpjələr/",
+    "ko": "인기 있는",
+    "hint": "pop"
+  },
+  {
+    "id": "w0133",
+    "en": "unpopular",
+    "ipa": "/ʌnˈpɑːpjələr/",
+    "ko": "인기 없는",
+    "hint": "un+popular"
+  },
+  {
+    "id": "w0134",
+    "en": "common",
+    "ipa": "/ˈkɑːmən/",
+    "ko": "흔한, 공통의",
+    "hint": "common=흔함"
+  },
+  {
+    "id": "w0135",
+    "en": "rare",
+    "ipa": "/rer/",
+    "ko": "드문",
+    "hint": "rare=희귀"
+  },
+  {
+    "id": "w0136",
+    "en": "similar",
+    "ipa": "/ˈsɪmələr/",
+    "ko": "비슷한",
+    "hint": "same 느낌"
+  },
+  {
+    "id": "w0137",
+    "en": "different",
+    "ipa": "/ˈdɪfrənt/",
+    "ko": "다른",
+    "hint": "difference"
+  },
+  {
+    "id": "w0138",
+    "en": "compare",
+    "ipa": "/kəmˈper/",
+    "ko": "비교하다",
+    "hint": "com+pare"
+  },
+  {
+    "id": "w0139",
+    "en": "contrast",
+    "ipa": "/ˈkɑːntræst/",
+    "ko": "대조하다/대조",
+    "hint": "contrast"
+  },
+  {
+    "id": "w0140",
+    "en": "in my experience",
+    "ipa": "/ɪn maɪ ɪkˈspɪriəns/",
+    "ko": "내 경험상",
+    "hint": "경험 기반"
+  },
+  {
+    "id": "w0141",
+    "en": "to be specific",
+    "ipa": "/tə bi spəˈsɪfɪk/",
+    "ko": "구체적으로 말하면",
+    "hint": "specific=구체"
+  },
+  {
+    "id": "w0142",
+    "en": "for example",
+    "ipa": "/fɔːr ɪɡˈzæmpəl/",
+    "ko": "예를 들면",
+    "hint": "예시 시작"
+  },
+  {
+    "id": "w0143",
+    "en": "for this reason",
+    "ipa": "/fɔːr ðɪs ˈriːzən/",
+    "ko": "이런 이유로",
+    "hint": "원인 연결"
+  },
+  {
+    "id": "w0144",
+    "en": "as a consequence",
+    "ipa": "/æz ə ˈkɑːnsəkwens/",
+    "ko": "그 결과로",
+    "hint": "결과 연결"
+  },
+  {
+    "id": "w0145",
+    "en": "on average",
+    "ipa": "/ɑn ˈævərɪdʒ/",
+    "ko": "평균적으로",
+    "hint": "average=평균"
+  },
+  {
+    "id": "w0146",
+    "en": "in the short term",
+    "ipa": "/ɪn ðə ʃɔːrt tɜːrm/",
+    "ko": "단기적으로",
+    "hint": "short term"
+  },
+  {
+    "id": "w0147",
+    "en": "in the long term",
+    "ipa": "/ɪn ðə lɔːŋ tɜːrm/",
+    "ko": "장기적으로",
+    "hint": "long term"
+  },
+  {
+    "id": "w0148",
+    "en": "a balanced view",
+    "ipa": "/ə ˈbælənsd vjuː/",
+    "ko": "균형 잡힌 관점",
+    "hint": "balance"
+  },
+  {
+    "id": "w0149",
+    "en": "to sum up",
+    "ipa": "/tə sʌm ʌp/",
+    "ko": "요약하면",
+    "hint": "sum=합"
+  },
+  {
+    "id": "w0150",
+    "en": "overall",
+    "ipa": "/ˌoʊvərˈɔːl/",
+    "ko": "전반적으로",
+    "hint": "over+all"
   }
 ]
