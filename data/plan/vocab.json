@@ -1048,5 +1048,215 @@
     "ipa": "/ˌoʊvərˈɔːl/",
     "ko": "전반적으로",
     "hint": "over+all"
+  },
+  {
+    "id": "w0151",
+    "en": "cut down on",
+    "ipa": "/kʌt daʊn ɑn/",
+    "ko": "(양을) 줄이다",
+    "hint": "down=줄이기"
+  },
+  {
+    "id": "w0152",
+    "en": "give something a try",
+    "ipa": "/ɡɪv ˈsʌmθɪŋ ə traɪ/",
+    "ko": "한번 시도해보다",
+    "hint": "try=시도"
+  },
+  {
+    "id": "w0153",
+    "en": "be into",
+    "ipa": "/bi ˈɪntuː/",
+    "ko": "~에 푹 빠져있다",
+    "hint": "into=빠져들다"
+  },
+  {
+    "id": "w0154",
+    "en": "be keen on",
+    "ipa": "/bi kiːn ɑn/",
+    "ko": "~을 좋아하다",
+    "hint": "keen=열심인"
+  },
+  {
+    "id": "w0155",
+    "en": "be fed up with",
+    "ipa": "/bi fed ʌp wɪð/",
+    "ko": "~에 질리다",
+    "hint": "fed up=질림"
+  },
+  {
+    "id": "w0156",
+    "en": "on a daily basis",
+    "ipa": "/ɑn ə ˈdeɪli ˈbeɪsɪs/",
+    "ko": "매일",
+    "hint": "basis=기준"
+  },
+  {
+    "id": "w0157",
+    "en": "from time to time",
+    "ipa": "/frəm taɪm tə taɪm/",
+    "ko": "가끔",
+    "hint": "=occasionally"
+  },
+  {
+    "id": "w0158",
+    "en": "once in a while",
+    "ipa": "/wʌns ɪn ə waɪl/",
+    "ko": "이따금",
+    "hint": "while=잠깐"
+  },
+  {
+    "id": "w0159",
+    "en": "a sense of",
+    "ipa": "/ə sens əv/",
+    "ko": "~한 느낌/감각",
+    "hint": "sense=감각"
+  },
+  {
+    "id": "w0160",
+    "en": "be mindful of",
+    "ipa": "/bi ˈmaɪndfəl əv/",
+    "ko": "~을 의식하다/유념하다",
+    "hint": "mindful=신경 쓰는"
+  },
+  {
+    "id": "w0161",
+    "en": "be aware of",
+    "ipa": "/bi əˈwer əv/",
+    "ko": "~을 인지하다",
+    "hint": "aware=인지"
+  },
+  {
+    "id": "w0162",
+    "en": "have a positive impact on",
+    "ipa": "/hæv ə ˈpɑːzətɪv ˈɪmpækt ɑn/",
+    "ko": "~에 긍정적 영향을 주다",
+    "hint": "impact=영향"
+  },
+  {
+    "id": "w0163",
+    "en": "have a negative impact on",
+    "ipa": "/hæv ə ˈneɡətɪv ˈɪmpækt ɑn/",
+    "ko": "~에 부정적 영향을 주다",
+    "hint": "negative=부정"
+  },
+  {
+    "id": "w0164",
+    "en": "quality of life",
+    "ipa": "/ˈkwɑːləti əv laɪf/",
+    "ko": "삶의 질",
+    "hint": "생활 만족도"
+  },
+  {
+    "id": "w0165",
+    "en": "a double-edged sword",
+    "ipa": "/ə ˌdʌbəl ˈedʒd sɔːrd/",
+    "ko": "양날의 검",
+    "hint": "장단점 둘 다"
+  },
+  {
+    "id": "w0166",
+    "en": "pros and cons",
+    "ipa": "/proʊz ænd kɑːnz/",
+    "ko": "장단점",
+    "hint": "pro=장점, con=단점"
+  },
+  {
+    "id": "w0167",
+    "en": "to some degree",
+    "ipa": "/tə sʌm dɪˈɡriː/",
+    "ko": "어느 정도",
+    "hint": "degree=정도"
+  },
+  {
+    "id": "w0168",
+    "en": "more often than not",
+    "ipa": "/mɔːr ˈɔːfən ðæn nɑːt/",
+    "ko": "대개(대부분의 경우)",
+    "hint": "not보다 often이 더 많다"
+  },
+  {
+    "id": "w0169",
+    "en": "take it for granted",
+    "ipa": "/teɪk ɪt fɔːr ˈɡræntɪd/",
+    "ko": "당연하게 여기다",
+    "hint": "granted=주어진"
+  },
+  {
+    "id": "w0170",
+    "en": "play a role in",
+    "ipa": "/pleɪ ə roʊl ɪn/",
+    "ko": "~에 역할을 하다",
+    "hint": "role=역할"
+  },
+  {
+    "id": "w0171",
+    "en": "be likely to",
+    "ipa": "/bi ˈlaɪkli tuː/",
+    "ko": "~할 가능성이 높다",
+    "hint": "likely=가능"
+  },
+  {
+    "id": "w0172",
+    "en": "be unlikely to",
+    "ipa": "/bi ʌnˈlaɪkli tuː/",
+    "ko": "~할 가능성이 낮다",
+    "hint": "un+likely"
+  },
+  {
+    "id": "w0173",
+    "en": "in terms of",
+    "ipa": "/ɪn tɜːrmz əv/",
+    "ko": "~의 측면에서",
+    "hint": "terms=조건/측면"
+  },
+  {
+    "id": "w0174",
+    "en": "as for",
+    "ipa": "/æz fɔːr/",
+    "ko": "~에 관해서는",
+    "hint": "화제 전환"
+  },
+  {
+    "id": "w0175",
+    "en": "to a large extent",
+    "ipa": "/tə ə lɑːrdʒ ɪkˈstent/",
+    "ko": "대부분(큰 범위로)",
+    "hint": "extent=범위"
+  },
+  {
+    "id": "w0176",
+    "en": "to a certain extent",
+    "ipa": "/tə ə ˈsɜːrtən ɪkˈstent/",
+    "ko": "어느 정도",
+    "hint": "certain=어느"
+  },
+  {
+    "id": "w0177",
+    "en": "be worth it",
+    "ipa": "/bi wɜːrθ ɪt/",
+    "ko": "할 만하다/가치 있다",
+    "hint": "worth=가치"
+  },
+  {
+    "id": "w0178",
+    "en": "make an effort to",
+    "ipa": "/meɪk ən ˈefərt tuː/",
+    "ko": "~하려고 노력하다",
+    "hint": "effort=노력"
+  },
+  {
+    "id": "w0179",
+    "en": "have mixed feelings",
+    "ipa": "/hæv mɪkst ˈfiːlɪŋz/",
+    "ko": "복잡한 감정이 들다",
+    "hint": "mixed=섞인"
+  },
+  {
+    "id": "w0180",
+    "en": "be open to",
+    "ipa": "/bi ˈoʊpən tuː/",
+    "ko": "~을 받아들일 마음이 있다",
+    "hint": "open=열려있는"
   }
 ]
