@@ -1258,5 +1258,215 @@
     "ipa": "/bi ˈoʊpən tuː/",
     "ko": "~을 받아들일 마음이 있다",
     "hint": "open=열려있는"
+  },
+  {
+    "id": "w0181",
+    "en": "hobby",
+    "ipa": "/ˈhɑːbi/",
+    "ko": "취미",
+    "hint": "happy+hobby(재밌는 것)"
+  },
+  {
+    "id": "w0182",
+    "en": "pastime",
+    "ipa": "/ˈpæstaɪm/",
+    "ko": "취미, 여가 활동",
+    "hint": "pass time=시간 보내기"
+  },
+  {
+    "id": "w0183",
+    "en": "leisure time",
+    "ipa": "/ˈliːʒər taɪm/",
+    "ko": "여가 시간",
+    "hint": "leisure=여가"
+  },
+  {
+    "id": "w0184",
+    "en": "be passionate about",
+    "ipa": "/bi ˈpæʃənət əˈbaʊt/",
+    "ko": "~에 열정이 있다",
+    "hint": "passion=열정"
+  },
+  {
+    "id": "w0185",
+    "en": "be interested in",
+    "ipa": "/bi ˈɪntrəstɪd ɪn/",
+    "ko": "~에 관심 있다",
+    "hint": "interest=관심"
+  },
+  {
+    "id": "w0186",
+    "en": "get into",
+    "ipa": "/ɡet ˈɪntuː/",
+    "ko": "~에 빠지기 시작하다",
+    "hint": "into=빠져들다"
+  },
+  {
+    "id": "w0187",
+    "en": "pick up (a hobby)",
+    "ipa": "/pɪk ʌp/",
+    "ko": "(취미를) 새로 시작하다",
+    "hint": "pick up=줍다→시작"
+  },
+  {
+    "id": "w0188",
+    "en": "give it a shot",
+    "ipa": "/ɡɪv ɪt ə ʃɑːt/",
+    "ko": "한번 해보다",
+    "hint": "shot=시도"
+  },
+  {
+    "id": "w0189",
+    "en": "indoor",
+    "ipa": "/ˈɪndɔːr/",
+    "ko": "실내의",
+    "hint": "in+door"
+  },
+  {
+    "id": "w0190",
+    "en": "outdoor",
+    "ipa": "/ˈaʊtdɔːr/",
+    "ko": "야외의",
+    "hint": "out+door"
+  },
+  {
+    "id": "w0191",
+    "en": "binge-watch",
+    "ipa": "/ˈbɪndʒ wɑːtʃ/",
+    "ko": "정주행하다",
+    "hint": "binge=폭식→폭주 시청"
+  },
+  {
+    "id": "w0192",
+    "en": "documentary",
+    "ipa": "/ˌdɑːkjəˈmentri/",
+    "ko": "다큐멘터리",
+    "hint": "document=기록"
+  },
+  {
+    "id": "w0193",
+    "en": "podcast",
+    "ipa": "/ˈpɑːdkæst/",
+    "ko": "팟캐스트",
+    "hint": "pod+iPod(연상)"
+  },
+  {
+    "id": "w0194",
+    "en": "audiobook",
+    "ipa": "/ˈɔːdioʊbʊk/",
+    "ko": "오디오북",
+    "hint": "audio+book"
+  },
+  {
+    "id": "w0195",
+    "en": "work out",
+    "ipa": "/wɜrk aʊt/",
+    "ko": "운동하다",
+    "hint": "work+out"
+  },
+  {
+    "id": "w0196",
+    "en": "go for a run",
+    "ipa": "/ɡoʊ fɔːr ə rʌn/",
+    "ko": "러닝하러 가다",
+    "hint": "run=달리기"
+  },
+  {
+    "id": "w0197",
+    "en": "stretch",
+    "ipa": "/stretʃ/",
+    "ko": "스트레칭하다",
+    "hint": "stretch=늘리다"
+  },
+  {
+    "id": "w0198",
+    "en": "stay in shape",
+    "ipa": "/steɪ ɪn ʃeɪp/",
+    "ko": "몸매/컨디션을 유지하다",
+    "hint": "shape=몸 상태"
+  },
+  {
+    "id": "w0199",
+    "en": "cooking",
+    "ipa": "/ˈkʊkɪŋ/",
+    "ko": "요리",
+    "hint": "cook"
+  },
+  {
+    "id": "w0200",
+    "en": "home-cooked",
+    "ipa": "/ˌhoʊm ˈkʊkt/",
+    "ko": "집에서 만든(요리)",
+    "hint": "home+cooked"
+  },
+  {
+    "id": "w0201",
+    "en": "try out a new recipe",
+    "ipa": "/traɪ aʊt ə nuː ˈresəpi/",
+    "ko": "새 레시피를 시도하다",
+    "hint": "recipe=조리법"
+  },
+  {
+    "id": "w0202",
+    "en": "grocery shopping",
+    "ipa": "/ˈɡroʊsəri ˈʃɑːpɪŋ/",
+    "ko": "장 보기",
+    "hint": "grocery=식료품"
+  },
+  {
+    "id": "w0203",
+    "en": "eat out",
+    "ipa": "/iːt aʊt/",
+    "ko": "외식하다",
+    "hint": "out=밖에서"
+  },
+  {
+    "id": "w0204",
+    "en": "cafe hopping",
+    "ipa": "/kæˈfeɪ ˈhɑːpɪŋ/",
+    "ko": "카페 투어",
+    "hint": "hop=이곳저곳"
+  },
+  {
+    "id": "w0205",
+    "en": "travel on a budget",
+    "ipa": "/ˈtrævəl ɑn ə ˈbʌdʒɪt/",
+    "ko": "가성비 여행하다",
+    "hint": "budget=예산"
+  },
+  {
+    "id": "w0206",
+    "en": "book in advance",
+    "ipa": "/bʊk ɪn ədˈvæns/",
+    "ko": "미리 예약하다",
+    "hint": "advance=미리"
+  },
+  {
+    "id": "w0207",
+    "en": "hidden gem",
+    "ipa": "/ˌhɪdn ˈdʒem/",
+    "ko": "숨은 명소",
+    "hint": "gem=보석"
+  },
+  {
+    "id": "w0208",
+    "en": "touristy",
+    "ipa": "/ˈtʊrɪsti/",
+    "ko": "관광객이 많은",
+    "hint": "tourist+y"
+  },
+  {
+    "id": "w0209",
+    "en": "local cuisine",
+    "ipa": "/ˈloʊkəl kwɪˈziːn/",
+    "ko": "현지 음식",
+    "hint": "cuisine=요리"
+  },
+  {
+    "id": "w0210",
+    "en": "souvenir",
+    "ipa": "/ˌsuːvəˈnɪr/",
+    "ko": "기념품",
+    "hint": "souvenir=기념"
   }
 ]
