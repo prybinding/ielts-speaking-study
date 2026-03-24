@@ -1468,5 +1468,215 @@
     "ipa": "/ˌsuːvəˈnɪr/",
     "ko": "기념품",
     "hint": "souvenir=기념"
+  },
+  {
+    "id": "w0211",
+    "en": "itinerary",
+    "ipa": "/aɪˈtɪnəˌreri/",
+    "ko": "여행 일정",
+    "hint": "여행 계획표"
+  },
+  {
+    "id": "w0212",
+    "en": "landmark",
+    "ipa": "/ˈlændmɑːrk/",
+    "ko": "명소, 랜드마크",
+    "hint": "land+mark(표식)"
+  },
+  {
+    "id": "w0213",
+    "en": "scenery",
+    "ipa": "/ˈsiːnəri/",
+    "ko": "풍경",
+    "hint": "scene=장면"
+  },
+  {
+    "id": "w0214",
+    "en": "breathtaking",
+    "ipa": "/ˈbreθˌteɪkɪŋ/",
+    "ko": "숨이 멎을 듯한",
+    "hint": "breath+take"
+  },
+  {
+    "id": "w0215",
+    "en": "unwind",
+    "ipa": "/ʌnˈwaɪnd/",
+    "ko": "긴장을 풀다",
+    "hint": "감긴 걸 풀다"
+  },
+  {
+    "id": "w0216",
+    "en": "recharge",
+    "ipa": "/ˌriːˈtʃɑːrdʒ/",
+    "ko": "재충전하다",
+    "hint": "battery recharge"
+  },
+  {
+    "id": "w0217",
+    "en": "burn out",
+    "ipa": "/bɜːrn aʊt/",
+    "ko": "번아웃되다",
+    "hint": "burn=타다"
+  },
+  {
+    "id": "w0218",
+    "en": "overwhelmed",
+    "ipa": "/ˌoʊvərˈwelmd/",
+    "ko": "압도된, 벅찬",
+    "hint": "over+whelm"
+  },
+  {
+    "id": "w0219",
+    "en": "keep in touch",
+    "ipa": "/kiːp ɪn tʌtʃ/",
+    "ko": "연락을 유지하다",
+    "hint": "touch=접촉"
+  },
+  {
+    "id": "w0220",
+    "en": "catch up with",
+    "ipa": "/kætʃ ʌp wɪð/",
+    "ko": "근황을 나누다/따라잡다",
+    "hint": "대화에서 자주"
+  },
+  {
+    "id": "w0221",
+    "en": "close-knit",
+    "ipa": "/ˌkloʊs ˈnɪt/",
+    "ko": "유대가 강한",
+    "hint": "촘촘히 knit"
+  },
+  {
+    "id": "w0222",
+    "en": "get along with",
+    "ipa": "/ɡet əˈlɔːŋ wɪð/",
+    "ko": "~와 잘 지내다",
+    "hint": "along=함께"
+  },
+  {
+    "id": "w0223",
+    "en": "conflict",
+    "ipa": "/ˈkɑːnflɪkt/",
+    "ko": "갈등",
+    "hint": "con+flict"
+  },
+  {
+    "id": "w0224",
+    "en": "resolve",
+    "ipa": "/rɪˈzɑːlv/",
+    "ko": "해결하다",
+    "hint": "solution"
+  },
+  {
+    "id": "w0225",
+    "en": "compromise",
+    "ipa": "/ˈkɑːmprəˌmaɪz/",
+    "ko": "타협하다/타협",
+    "hint": "중간 찾기"
+  },
+  {
+    "id": "w0226",
+    "en": "spend quality time",
+    "ipa": "/spend ˈkwɑːləti taɪm/",
+    "ko": "의미 있는 시간을 보내다",
+    "hint": "quality time"
+  },
+  {
+    "id": "w0227",
+    "en": "role model",
+    "ipa": "/ˈroʊl ˌmɑːdl/",
+    "ko": "롤모델",
+    "hint": "모범"
+  },
+  {
+    "id": "w0228",
+    "en": "look up to",
+    "ipa": "/lʊk ʌp tuː/",
+    "ko": "존경하다",
+    "hint": "up=위로"
+  },
+  {
+    "id": "w0229",
+    "en": "look down on",
+    "ipa": "/lʊk daʊn ɑn/",
+    "ko": "깔보다, 얕보다",
+    "hint": "down=아래로"
+  },
+  {
+    "id": "w0230",
+    "en": "first impression",
+    "ipa": "/fɜːrst ɪmˈpreʃən/",
+    "ko": "첫인상",
+    "hint": "impression=인상"
+  },
+  {
+    "id": "w0231",
+    "en": "open-minded",
+    "ipa": "/ˌoʊpən ˈmaɪndɪd/",
+    "ko": "개방적인",
+    "hint": "mind가 열림"
+  },
+  {
+    "id": "w0232",
+    "en": "narrow-minded",
+    "ipa": "/ˌnæroʊ ˈmaɪndɪd/",
+    "ko": "편협한",
+    "hint": "narrow=좁은"
+  },
+  {
+    "id": "w0233",
+    "en": "be picky",
+    "ipa": "/bi ˈpɪki/",
+    "ko": "까다롭다",
+    "hint": "pick=고르다"
+  },
+  {
+    "id": "w0234",
+    "en": "be flexible",
+    "ipa": "/bi ˈfleksəbəl/",
+    "ko": "융통성이 있다",
+    "hint": "flex=유연"
+  },
+  {
+    "id": "w0235",
+    "en": "take responsibility",
+    "ipa": "/teɪk rɪˌspɑːnsəˈbɪləti/",
+    "ko": "책임을 지다",
+    "hint": "responsible"
+  },
+  {
+    "id": "w0236",
+    "en": "be accountable",
+    "ipa": "/bi əˈkaʊntəbəl/",
+    "ko": "책임이 있다(설명 책임)",
+    "hint": "account=설명"
+  },
+  {
+    "id": "w0237",
+    "en": "make a decision",
+    "ipa": "/meɪk ə dɪˈsɪʒən/",
+    "ko": "결정을 내리다",
+    "hint": "decision"
+  },
+  {
+    "id": "w0238",
+    "en": "regret",
+    "ipa": "/rɪˈɡret/",
+    "ko": "후회하다/후회",
+    "hint": "re+gret"
+  },
+  {
+    "id": "w0239",
+    "en": "be proud of",
+    "ipa": "/bi praʊd əv/",
+    "ko": "~을 자랑스럽게 여기다",
+    "hint": "pride"
+  },
+  {
+    "id": "w0240",
+    "en": "sense of accomplishment",
+    "ipa": "/sens əv əˈkɑːmplɪʃmənt/",
+    "ko": "성취감",
+    "hint": "accomplish=해내다"
   }
 ]
