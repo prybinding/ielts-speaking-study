@@ -1678,5 +1678,215 @@
     "ipa": "/sens əv əˈkɑːmplɪʃmənt/",
     "ko": "성취감",
     "hint": "accomplish=해내다"
+  },
+  {
+    "id": "w0241",
+    "en": "set a routine",
+    "ipa": "/set ə ruːˈtiːn/",
+    "ko": "루틴을 만들다",
+    "hint": "IELTS: 습관/일상 질문에 바로"
+  },
+  {
+    "id": "w0242",
+    "en": "stay consistent",
+    "ipa": "/steɪ kənˈsɪstənt/",
+    "ko": "꾸준히 하다",
+    "hint": "consistent=일관된 → 꾸준한"
+  },
+  {
+    "id": "w0243",
+    "en": "procrastinate",
+    "ipa": "/prəˈkræstɪneɪt/",
+    "ko": "미루다",
+    "hint": "pro+crastinate(미루는 습관)"
+  },
+  {
+    "id": "w0244",
+    "en": "put something off",
+    "ipa": "/pʊt ˈsʌmθɪŋ ɔːf/",
+    "ko": "(일을) 미루다",
+    "hint": "procrastinate의 쉬운 버전"
+  },
+  {
+    "id": "w0245",
+    "en": "get back on track",
+    "ipa": "/ɡet bæk ɑn træk/",
+    "ko": "다시 원래 페이스로 돌아오다",
+    "hint": "track=궤도"
+  },
+  {
+    "id": "w0246",
+    "en": "stay up late",
+    "ipa": "/steɪ ʌp leɪt/",
+    "ko": "늦게까지 안 자다",
+    "hint": "sleep topic 단골"
+  },
+  {
+    "id": "w0247",
+    "en": "get enough sleep",
+    "ipa": "/ɡet ɪˈnʌf sliːp/",
+    "ko": "충분히 자다",
+    "hint": "enough=충분히"
+  },
+  {
+    "id": "w0248",
+    "en": "feel refreshed",
+    "ipa": "/fiːl rɪˈfreʃt/",
+    "ko": "개운하다",
+    "hint": "refresh=상쾌하게"
+  },
+  {
+    "id": "w0249",
+    "en": "keep a diary",
+    "ipa": "/kiːp ə ˈdaɪəri/",
+    "ko": "일기를 쓰다",
+    "hint": "diary=일기"
+  },
+  {
+    "id": "w0250",
+    "en": "journal",
+    "ipa": "/ˈdʒɜːrnəl/",
+    "ko": "저널, 기록(하다)",
+    "hint": "keep a journal"
+  },
+  {
+    "id": "w0251",
+    "en": "be addicted to",
+    "ipa": "/bi əˈdɪktɪd tuː/",
+    "ko": "~에 중독되다",
+    "hint": "SNS/폰 주제"
+  },
+  {
+    "id": "w0252",
+    "en": "scroll mindlessly",
+    "ipa": "/skroʊl ˈmaɪndləsli/",
+    "ko": "생각 없이 스크롤하다",
+    "hint": "mindless=무의식"
+  },
+  {
+    "id": "w0253",
+    "en": "cut back on screen time",
+    "ipa": "/kʌt bæk ɑn skriːn taɪm/",
+    "ko": "스크린 타임을 줄이다",
+    "hint": "cut back on=줄이다"
+  },
+  {
+    "id": "w0254",
+    "en": "set boundaries",
+    "ipa": "/set ˈbaʊndriz/",
+    "ko": "경계를 정하다",
+    "hint": "work-life / 관계 주제"
+  },
+  {
+    "id": "w0255",
+    "en": "be overwhelmed with",
+    "ipa": "/bi ˌoʊvərˈwelmd wɪð/",
+    "ko": "~에 벅차다",
+    "hint": "overwhelmed=압도"
+  },
+  {
+    "id": "w0256",
+    "en": "take things one step at a time",
+    "ipa": "/teɪk θɪŋz wʌn step æt ə taɪm/",
+    "ko": "한 번에 한 단계씩 하다",
+    "hint": "멘탈/학습 조언 표현"
+  },
+  {
+    "id": "w0257",
+    "en": "stay curious",
+    "ipa": "/steɪ ˈkjʊriəs/",
+    "ko": "호기심을 유지하다",
+    "hint": "curious=호기심"
+  },
+  {
+    "id": "w0258",
+    "en": "learn by trial and error",
+    "ipa": "/lɜːrn baɪ traɪəl ænd ˈerər/",
+    "ko": "시행착오로 배우다",
+    "hint": "trial=시도, error=실수"
+  },
+  {
+    "id": "w0259",
+    "en": "be patient",
+    "ipa": "/bi ˈpeɪʃənt/",
+    "ko": "인내심을 갖다",
+    "hint": "patient=참을성"
+  },
+  {
+    "id": "w0260",
+    "en": "be impatient",
+    "ipa": "/bi ɪmˈpeɪʃənt/",
+    "ko": "성급하다",
+    "hint": "im+patient"
+  },
+  {
+    "id": "w0261",
+    "en": "reward yourself",
+    "ipa": "/rɪˈwɔːrd jərˈself/",
+    "ko": "스스로에게 보상하다",
+    "hint": "습관 만들기"
+  },
+  {
+    "id": "w0262",
+    "en": "treat yourself",
+    "ipa": "/triːt jərˈself/",
+    "ko": "스스로에게 작은 선물을 하다",
+    "hint": "treat=대접"
+  },
+  {
+    "id": "w0263",
+    "en": "be grateful for",
+    "ipa": "/bi ˈɡreɪtfəl fɔːr/",
+    "ko": "~에 감사하다",
+    "hint": "gratitude"
+  },
+  {
+    "id": "w0264",
+    "en": "take a walk",
+    "ipa": "/teɪk ə wɔːk/",
+    "ko": "산책하다",
+    "hint": "walk=산책"
+  },
+  {
+    "id": "w0265",
+    "en": "go for a hike",
+    "ipa": "/ɡoʊ fɔːr ə haɪk/",
+    "ko": "하이킹 가다",
+    "hint": "outdoor activity"
+  },
+  {
+    "id": "w0266",
+    "en": "spend time in nature",
+    "ipa": "/spend taɪm ɪn ˈneɪtʃər/",
+    "ko": "자연 속에서 시간을 보내다",
+    "hint": "nature=자연"
+  },
+  {
+    "id": "w0267",
+    "en": "a mental reset",
+    "ipa": "/ə ˈmentl ˈriːset/",
+    "ko": "머리 리셋(멘탈 회복)",
+    "hint": "reset=재설정"
+  },
+  {
+    "id": "w0268",
+    "en": "keep your mind clear",
+    "ipa": "/kiːp jʊr maɪnd klɪr/",
+    "ko": "머리를 맑게 유지하다",
+    "hint": "clear=맑은"
+  },
+  {
+    "id": "w0269",
+    "en": "be well-prepared",
+    "ipa": "/bi wel prɪˈperd/",
+    "ko": "준비가 잘 되어 있다",
+    "hint": "prepared=준비됨"
+  },
+  {
+    "id": "w0270",
+    "en": "think on your feet",
+    "ipa": "/θɪŋk ɑn jʊr fiːt/",
+    "ko": "즉석에서 빠르게 생각하다",
+    "hint": "speaking 시험 핵심"
   }
 ]
