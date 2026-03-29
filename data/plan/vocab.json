@@ -1888,5 +1888,215 @@
     "ipa": "/θɪŋk ɑn jʊr fiːt/",
     "ko": "즉석에서 빠르게 생각하다",
     "hint": "speaking 시험 핵심"
+  },
+  {
+    "id": "w0271",
+    "en": "bring up",
+    "ipa": "/brɪŋ ʌp/",
+    "ko": "(화제를) 꺼내다, 언급하다",
+    "hint": "bring=가져오다 → topic을 꺼내다"
+  },
+  {
+    "id": "w0272",
+    "en": "come to mind",
+    "ipa": "/kʌm tə maɪnd/",
+    "ko": "(생각이) 떠오르다",
+    "hint": "mind에 온다"
+  },
+  {
+    "id": "w0273",
+    "en": "to be honest with you",
+    "ipa": "/tə bi ˈɑnɪst wɪð juː/",
+    "ko": "솔직히 말하면(당신에게)",
+    "hint": "대답 시작용 완충"
+  },
+  {
+    "id": "w0274",
+    "en": "frankly speaking",
+    "ipa": "/ˈfræŋkli ˈspiːkɪŋ/",
+    "ko": "솔직히 말해서",
+    "hint": "=to be honest"
+  },
+  {
+    "id": "w0275",
+    "en": "in other words",
+    "ipa": "/ɪn ˈʌðər wɜːrdz/",
+    "ko": "즉, 다시 말해",
+    "hint": "paraphrase 신호"
+  },
+  {
+    "id": "w0276",
+    "en": "to put it simply",
+    "ipa": "/tə pʊt ɪt ˈsɪmpli/",
+    "ko": "간단히 말해서",
+    "hint": "simple=간단"
+  },
+  {
+    "id": "w0277",
+    "en": "what I mean is",
+    "ipa": "/wʌt aɪ miːn ɪz/",
+    "ko": "내 말은",
+    "hint": "정정/보충할 때"
+  },
+  {
+    "id": "w0278",
+    "en": "for that matter",
+    "ipa": "/fɔːr ðæt ˈmætər/",
+    "ko": "게다가, 그 문제에 관해서는",
+    "hint": "추가로 덧붙일 때"
+  },
+  {
+    "id": "w0279",
+    "en": "in particular",
+    "ipa": "/ɪn pərˈtɪkjələr/",
+    "ko": "특히",
+    "hint": "=especially"
+  },
+  {
+    "id": "w0280",
+    "en": "a variety of",
+    "ipa": "/ə vəˈraɪəti əv/",
+    "ko": "다양한",
+    "hint": "various로 바꿔치기"
+  },
+  {
+    "id": "w0281",
+    "en": "various",
+    "ipa": "/ˈveriəs/",
+    "ko": "다양한",
+    "hint": "a variety of=various"
+  },
+  {
+    "id": "w0282",
+    "en": "increase",
+    "ipa": "/ɪnˈkriːs/",
+    "ko": "증가하다/증가",
+    "hint": "자료 묘사에도 쓰임"
+  },
+  {
+    "id": "w0283",
+    "en": "decrease",
+    "ipa": "/dɪˈkriːs/",
+    "ko": "감소하다/감소",
+    "hint": "increase 반대"
+  },
+  {
+    "id": "w0284",
+    "en": "reduce",
+    "ipa": "/rɪˈduːs/",
+    "ko": "줄이다",
+    "hint": "cut down on과 같은 결"
+  },
+  {
+    "id": "w0285",
+    "en": "maintain",
+    "ipa": "/meɪnˈteɪn/",
+    "ko": "유지하다",
+    "hint": "main+tain(유지)"
+  },
+  {
+    "id": "w0286",
+    "en": "predict",
+    "ipa": "/prɪˈdɪkt/",
+    "ko": "예측하다",
+    "hint": "prediction"
+  },
+  {
+    "id": "w0287",
+    "en": "tend to",
+    "ipa": "/tend tuː/",
+    "ko": "~하는 경향이 있다",
+    "hint": "일반화 표현(너무 세게 말하지 않기)"
+  },
+  {
+    "id": "w0288",
+    "en": "avoid",
+    "ipa": "/əˈvɔɪd/",
+    "ko": "피하다",
+    "hint": "a+void(빈 곳)"
+  },
+  {
+    "id": "w0289",
+    "en": "cope",
+    "ipa": "/koʊp/",
+    "ko": "대처하다, 버티다",
+    "hint": "cope with 형태로 자주"
+  },
+  {
+    "id": "w0290",
+    "en": "adapt",
+    "ipa": "/əˈdæpt/",
+    "ko": "적응하다",
+    "hint": "adaptation"
+  },
+  {
+    "id": "w0291",
+    "en": "adjust",
+    "ipa": "/əˈdʒʌst/",
+    "ko": "조정하다",
+    "hint": "just=맞추다 느낌"
+  },
+  {
+    "id": "w0292",
+    "en": "make the most of",
+    "ipa": "/meɪk ðə moʊst əv/",
+    "ko": "최대한 활용하다",
+    "hint": "most=최대"
+  },
+  {
+    "id": "w0293",
+    "en": "make a difference",
+    "ipa": "/meɪk ə ˈdɪfrəns/",
+    "ko": "변화를 만들다, 도움이 되다",
+    "hint": "difference=차이"
+  },
+  {
+    "id": "w0294",
+    "en": "have an effect on",
+    "ipa": "/hæv ən ɪˈfekt ɑn/",
+    "ko": "~에 영향을 주다",
+    "hint": "impact/influence 대체"
+  },
+  {
+    "id": "w0295",
+    "en": "consider",
+    "ipa": "/kənˈsɪdər/",
+    "ko": "고려하다",
+    "hint": "thoughtful 답변에 좋음"
+  },
+  {
+    "id": "w0296",
+    "en": "persuade",
+    "ipa": "/pərˈsweɪd/",
+    "ko": "설득하다",
+    "hint": "persuasive"
+  },
+  {
+    "id": "w0297",
+    "en": "convince",
+    "ipa": "/kənˈvɪns/",
+    "ko": "확신시키다, 설득하다",
+    "hint": "persuade랑 세트"
+  },
+  {
+    "id": "w0298",
+    "en": "complain",
+    "ipa": "/kəmˈpleɪn/",
+    "ko": "불평하다",
+    "hint": "complaint"
+  },
+  {
+    "id": "w0299",
+    "en": "appreciate",
+    "ipa": "/əˈpriːʃieɪt/",
+    "ko": "고마워하다, 진가를 알아보다",
+    "hint": "thank you 업그레이드"
+  },
+  {
+    "id": "w0300",
+    "en": "take something seriously",
+    "ipa": "/teɪk ˈsʌmθɪŋ ˈsɪriəsli/",
+    "ko": "~을 진지하게 받아들이다",
+    "hint": "serious=진지"
   }
 ]

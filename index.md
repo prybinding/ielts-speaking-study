@@ -64,6 +64,12 @@ layout: none
       <a href="{{ '/days/day-009.html' | relative_url }}"><b>Day 9</b> — IELTS Speaking</a>
       <div class="note">Vocab 30 + speaking drills + SRS</div>
     </div>
+
+    <div class="card">
+      <span class="badge">DAY 010</span>
+      <a href="{{ '/days/day-010.html' | relative_url }}"><b>Day 10</b> — IELTS Speaking</a>
+      <div class="note">Vocab 30 + speaking drills + SRS</div>
+    </div>
   </div>
 
   <hr>
