@@ -2098,5 +2098,215 @@
     "ipa": "/teɪk ˈsʌmθɪŋ ˈsɪriəsli/",
     "ko": "~을 진지하게 받아들이다",
     "hint": "serious=진지"
+  },
+  {
+    "id": "w0301",
+    "en": "resilient",
+    "ipa": "/rɪˈzɪliənt/",
+    "ko": "회복력 있는",
+    "hint": "resile(되돌아가다) 느낌"
+  },
+  {
+    "id": "w0302",
+    "en": "a sense of belonging",
+    "ipa": "/ə sens əv bɪˈlɔːŋɪŋ/",
+    "ko": "소속감",
+    "hint": "belong=속하다"
+  },
+  {
+    "id": "w0303",
+    "en": "communal",
+    "ipa": "/kəˈmjuːnəl/",
+    "ko": "공동의, 공동체의",
+    "hint": "community와 연결"
+  },
+  {
+    "id": "w0304",
+    "en": "contribute",
+    "ipa": "/kənˈtrɪbjuːt/",
+    "ko": "기여하다",
+    "hint": "con+tribute(바치다)"
+  },
+  {
+    "id": "w0305",
+    "en": "take initiative",
+    "ipa": "/teɪk ɪˈnɪʃətɪv/",
+    "ko": "주도적으로 나서다",
+    "hint": "initiative=주도권"
+  },
+  {
+    "id": "w0306",
+    "en": "be on time",
+    "ipa": "/bi ɑn taɪm/",
+    "ko": "시간을 지키다",
+    "hint": "정시 도착"
+  },
+  {
+    "id": "w0307",
+    "en": "punctual",
+    "ipa": "/ˈpʌŋktʃuəl/",
+    "ko": "시간 엄수하는",
+    "hint": "punct=점(정시)"
+  },
+  {
+    "id": "w0308",
+    "en": "reliable",
+    "ipa": "/rɪˈlaɪəbəl/",
+    "ko": "믿을 만한",
+    "hint": "rely=의지"
+  },
+  {
+    "id": "w0309",
+    "en": "workload",
+    "ipa": "/ˈwɜːrkloʊd/",
+    "ko": "업무량",
+    "hint": "work+load"
+  },
+  {
+    "id": "w0310",
+    "en": "burnout",
+    "ipa": "/ˈbɜːrnaʊt/",
+    "ko": "번아웃",
+    "hint": "burn out 명사"
+  },
+  {
+    "id": "w0311",
+    "en": "set priorities",
+    "ipa": "/set praɪˈɔːrətiz/",
+    "ko": "우선순위를 정하다",
+    "hint": "priorities=복수"
+  },
+  {
+    "id": "w0312",
+    "en": "multitask",
+    "ipa": "/ˌmʌltiˈtæsk/",
+    "ko": "멀티태스킹하다",
+    "hint": "multi+task"
+  },
+  {
+    "id": "w0313",
+    "en": "concentrate",
+    "ipa": "/ˈkɑːnsəntreɪt/",
+    "ko": "집중하다",
+    "hint": "center에 모은다"
+  },
+  {
+    "id": "w0314",
+    "en": "be prone to",
+    "ipa": "/bi proʊn tuː/",
+    "ko": "~하기 쉬운 경향이 있다",
+    "hint": "prone=기울어진→취약"
+  },
+  {
+    "id": "w0315",
+    "en": "cope with stress",
+    "ipa": "/koʊp wɪð stres/",
+    "ko": "스트레스에 대처하다",
+    "hint": "cope with 활용"
+  },
+  {
+    "id": "w0316",
+    "en": "mindset",
+    "ipa": "/ˈmaɪndset/",
+    "ko": "마인드셋, 사고방식",
+    "hint": "mind+set"
+  },
+  {
+    "id": "w0317",
+    "en": "be willing to",
+    "ipa": "/bi ˈwɪlɪŋ tuː/",
+    "ko": "~할 의향이 있다",
+    "hint": "willing=의지가 있는"
+  },
+  {
+    "id": "w0318",
+    "en": "make a commitment",
+    "ipa": "/meɪk ə kəˈmɪtmənt/",
+    "ko": "약속/헌신을 하다",
+    "hint": "commit=전념"
+  },
+  {
+    "id": "w0319",
+    "en": "come in handy",
+    "ipa": "/kʌm ɪn ˈhændi/",
+    "ko": "유용하게 쓰이다",
+    "hint": "handy=편리한"
+  },
+  {
+    "id": "w0320",
+    "en": "a time saver",
+    "ipa": "/ə taɪm ˈseɪvər/",
+    "ko": "시간 절약 요소",
+    "hint": "saver=절약하는 것"
+  },
+  {
+    "id": "w0321",
+    "en": "cost of living",
+    "ipa": "/kɔːst əv ˈlɪvɪŋ/",
+    "ko": "생활비",
+    "hint": "living=생활"
+  },
+  {
+    "id": "w0322",
+    "en": "make ends meet",
+    "ipa": "/meɪk endz miːt/",
+    "ko": "근근이 살아가다",
+    "hint": "ends=양 끝을 맞추다"
+  },
+  {
+    "id": "w0323",
+    "en": "budget-friendly",
+    "ipa": "/ˈbʌdʒɪt ˈfrendli/",
+    "ko": "예산에 부담 없는",
+    "hint": "friendly=친화"
+  },
+  {
+    "id": "w0324",
+    "en": "splurge",
+    "ipa": "/splɜːrdʒ/",
+    "ko": "(가끔) 큰돈을 쓰다",
+    "hint": "spend+surge 느낌"
+  },
+  {
+    "id": "w0325",
+    "en": "cut corners",
+    "ipa": "/kʌt ˈkɔːrnərz/",
+    "ko": "(비용/품질을) 줄이다",
+    "hint": "corner를 깎다"
+  },
+  {
+    "id": "w0326",
+    "en": "worthwhile",
+    "ipa": "/ˌwɜːrθˈwaɪl/",
+    "ko": "할 만한, 가치 있는",
+    "hint": "worth+while"
+  },
+  {
+    "id": "w0327",
+    "en": "make a habit of",
+    "ipa": "/meɪk ə ˈhæbɪt əv/",
+    "ko": "~하는 습관을 들이다",
+    "hint": "habit 패턴"
+  },
+  {
+    "id": "w0328",
+    "en": "stick with",
+    "ipa": "/stɪk wɪð/",
+    "ko": "계속하다, 고수하다",
+    "hint": "stick to와 비슷"
+  },
+  {
+    "id": "w0329",
+    "en": "be tempted to",
+    "ipa": "/bi ˈtemptɪd tuː/",
+    "ko": "~하고 싶은 유혹을 느끼다",
+    "hint": "tempt=유혹"
+  },
+  {
+    "id": "w0330",
+    "en": "strike a balance",
+    "ipa": "/straɪk ə ˈbæləns/",
+    "ko": "균형을 잡다",
+    "hint": "balance=균형"
   }
 ]
