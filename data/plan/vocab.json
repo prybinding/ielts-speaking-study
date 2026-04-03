@@ -2308,5 +2308,215 @@
     "ipa": "/straɪk ə ˈbæləns/",
     "ko": "균형을 잡다",
     "hint": "balance=균형"
+  },
+  {
+    "id": "w0331",
+    "en": "celebrate",
+    "ipa": "/ˈseləˌbreɪt/",
+    "ko": "축하하다",
+    "hint": "celebration=축하"
+  },
+  {
+    "id": "w0332",
+    "en": "tradition",
+    "ipa": "/trəˈdɪʃən/",
+    "ko": "전통",
+    "hint": "traditional=전통의"
+  },
+  {
+    "id": "w0333",
+    "en": "ceremony",
+    "ipa": "/ˈserəˌmoʊni/",
+    "ko": "의식, مراسم",
+    "hint": "wedding ceremony로 자주"
+  },
+  {
+    "id": "w0334",
+    "en": "milestone",
+    "ipa": "/ˈmaɪlˌstoʊn/",
+    "ko": "중요한 이정표",
+    "hint": "mile+stone(이정표)"
+  },
+  {
+    "id": "w0335",
+    "en": "accomplish",
+    "ipa": "/əˈkɑːmplɪʃ/",
+    "ko": "성취하다",
+    "hint": "accomplishment=성취"
+  },
+  {
+    "id": "w0336",
+    "en": "appreciation",
+    "ipa": "/əˌpriːʃiˈeɪʃən/",
+    "ko": "감사, 고마움",
+    "hint": "appreciate의 명사"
+  },
+  {
+    "id": "w0337",
+    "en": "supportive",
+    "ipa": "/səˈpɔːrtɪv/",
+    "ko": "지지해주는",
+    "hint": "support+ive"
+  },
+  {
+    "id": "w0338",
+    "en": "inspiring",
+    "ipa": "/ɪnˈspaɪərɪŋ/",
+    "ko": "영감을 주는",
+    "hint": "inspire에서"
+  },
+  {
+    "id": "w0339",
+    "en": "role",
+    "ipa": "/roʊl/",
+    "ko": "역할",
+    "hint": "play a role"
+  },
+  {
+    "id": "w0340",
+    "en": "responsibility",
+    "ipa": "/rɪˌspɑːnsəˈbɪləti/",
+    "ko": "책임",
+    "hint": "responsible과 세트"
+  },
+  {
+    "id": "w0341",
+    "en": "punish",
+    "ipa": "/ˈpʌnɪʃ/",
+    "ko": "처벌하다",
+    "hint": "punishment=처벌"
+  },
+  {
+    "id": "w0342",
+    "en": "reward",
+    "ipa": "/rɪˈwɔːrd/",
+    "ko": "보상하다/보상",
+    "hint": "reward yourself"
+  },
+  {
+    "id": "w0343",
+    "en": "motivation",
+    "ipa": "/ˌmoʊtɪˈveɪʃən/",
+    "ko": "동기",
+    "hint": "motivate의 명사"
+  },
+  {
+    "id": "w0344",
+    "en": "self-discipline",
+    "ipa": "/ˌself ˈdɪsəplɪn/",
+    "ko": "자기 절제",
+    "hint": "self+discipline"
+  },
+  {
+    "id": "w0345",
+    "en": "consistent",
+    "ipa": "/kənˈsɪstənt/",
+    "ko": "꾸준한, 일관된",
+    "hint": "consistency=꾸준함"
+  },
+  {
+    "id": "w0346",
+    "en": "setback",
+    "ipa": "/ˈsetbæk/",
+    "ko": "차질, setback",
+    "hint": "뒤로 물러남"
+  },
+  {
+    "id": "w0347",
+    "en": "overcome a setback",
+    "ipa": "/ˌoʊvərˈkʌm ə ˈsetbæk/",
+    "ko": "차질을 극복하다",
+    "hint": "overcome+setback"
+  },
+  {
+    "id": "w0348",
+    "en": "make a plan",
+    "ipa": "/meɪk ə plæn/",
+    "ko": "계획을 세우다",
+    "hint": "plan 세우기"
+  },
+  {
+    "id": "w0349",
+    "en": "stick with a plan",
+    "ipa": "/stɪk wɪð ə plæn/",
+    "ko": "계획을 끝까지 지키다",
+    "hint": "stick with=계속"
+  },
+  {
+    "id": "w0350",
+    "en": "time management",
+    "ipa": "/taɪm ˈmænɪdʒmənt/",
+    "ko": "시간 관리",
+    "hint": "manage time"
+  },
+  {
+    "id": "w0351",
+    "en": "tight schedule",
+    "ipa": "/taɪt ˈskedʒuːl/",
+    "ko": "빡빡한 일정",
+    "hint": "tight=빡빡"
+  },
+  {
+    "id": "w0352",
+    "en": "make room for",
+    "ipa": "/meɪk ruːm fɔːr/",
+    "ko": "~할 여유를 만들다",
+    "hint": "room=여유"
+  },
+  {
+    "id": "w0353",
+    "en": "prioritize health",
+    "ipa": "/praɪˈɔːrəˌtaɪz helθ/",
+    "ko": "건강을 우선시하다",
+    "hint": "prioritize+health"
+  },
+  {
+    "id": "w0354",
+    "en": "mental health",
+    "ipa": "/ˈmentl helθ/",
+    "ko": "정신 건강",
+    "hint": "멘탈"
+  },
+  {
+    "id": "w0355",
+    "en": "well-being",
+    "ipa": "/ˌwel ˈbiːɪŋ/",
+    "ko": "웰빙, 안녕",
+    "hint": "being well"
+  },
+  {
+    "id": "w0356",
+    "en": "stress relief",
+    "ipa": "/stres rɪˈliːf/",
+    "ko": "스트레스 해소",
+    "hint": "relief=완화"
+  },
+  {
+    "id": "w0357",
+    "en": "unplug",
+    "ipa": "/ʌnˈplʌɡ/",
+    "ko": "디지털에서 잠깐 벗어나다",
+    "hint": "plug를 뽑다"
+  },
+  {
+    "id": "w0358",
+    "en": "take a day off",
+    "ipa": "/teɪk ə deɪ ɔːf/",
+    "ko": "하루 쉬다",
+    "hint": "day off=휴일"
+  },
+  {
+    "id": "w0359",
+    "en": "rejuvenate",
+    "ipa": "/rɪˈdʒuːvəˌneɪt/",
+    "ko": "원기 회복하다",
+    "hint": "젊게(juvenile) 되다"
+  },
+  {
+    "id": "w0360",
+    "en": "look forward to",
+    "ipa": "/lʊk ˈfɔːrwərd tuː/",
+    "ko": "기대하다",
+    "hint": "forward=앞을 보다"
   }
 ]
