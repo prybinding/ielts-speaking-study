@@ -2518,5 +2518,215 @@
     "ipa": "/lʊk ˈfɔːrwərd tuː/",
     "ko": "기대하다",
     "hint": "forward=앞을 보다"
+  },
+  {
+    "id": "w0361",
+    "en": "get along with",
+    "ipa": "/ɡɛt əˈlɔŋ wɪð/",
+    "ko": "~와 잘 지내다",
+    "hint": "relationship phrase"
+  },
+  {
+    "id": "w0362",
+    "en": "keep in touch",
+    "ipa": "/kiːp ɪn tʌtʃ/",
+    "ko": "연락하다",
+    "hint": "maintain contact"
+  },
+  {
+    "id": "w0363",
+    "en": "lose touch",
+    "ipa": "/luːz tʌtʃ/",
+    "ko": "연락이 끊기다",
+    "hint": "opposite of keep in touch"
+  },
+  {
+    "id": "w0364",
+    "en": "work-life balance",
+    "ipa": "/ˌwɜːrk laɪf ˈbæləns/",
+    "ko": "워라밸",
+    "hint": "IELTS buzzword"
+  },
+  {
+    "id": "w0365",
+    "en": "burn out",
+    "ipa": "/bɜːrn aʊt/",
+    "ko": "번아웃 되다",
+    "hint": "stress → burnout"
+  },
+  {
+    "id": "w0366",
+    "en": "cope with",
+    "ipa": "/koʊp wɪð/",
+    "ko": "~에 대처하다",
+    "hint": "handle stress"
+  },
+  {
+    "id": "w0367",
+    "en": "deal with",
+    "ipa": "/diːl wɪð/",
+    "ko": "~을 다루다/처리하다",
+    "hint": "common verb"
+  },
+  {
+    "id": "w0368",
+    "en": "prioritize",
+    "ipa": "/praɪˈɔːrətaɪz/",
+    "ko": "우선순위를 두다",
+    "hint": "priority → prioritize"
+  },
+  {
+    "id": "w0369",
+    "en": "procrastinate",
+    "ipa": "/prəˈkræs.tə.neɪt/",
+    "ko": "미루다",
+    "hint": "classic IELTS word"
+  },
+  {
+    "id": "w0370",
+    "en": "discipline",
+    "ipa": "/ˈdɪsəplɪn/",
+    "ko": "자기관리, 규율",
+    "hint": "habit building"
+  },
+  {
+    "id": "w0371",
+    "en": "motivation",
+    "ipa": "/ˌmoʊtɪˈveɪʃən/",
+    "ko": "동기",
+    "hint": "motivate"
+  },
+  {
+    "id": "w0372",
+    "en": "consistent",
+    "ipa": "/kənˈsɪstənt/",
+    "ko": "일관된, 꾸준한",
+    "hint": "consistency"
+  },
+  {
+    "id": "w0373",
+    "en": "on a tight budget",
+    "ipa": "/ɑn ə taɪt ˈbʌdʒɪt/",
+    "ko": "예산이 빠듯한",
+    "hint": "money phrase"
+  },
+  {
+    "id": "w0374",
+    "en": "afford",
+    "ipa": "/əˈfɔːrd/",
+    "ko": "감당하다",
+    "hint": "can you afford it?"
+  },
+  {
+    "id": "w0375",
+    "en": "cost-effective",
+    "ipa": "/ˌkɔːst ɪˈfɛktɪv/",
+    "ko": "가성비 좋은",
+    "hint": "efficient for the price"
+  },
+  {
+    "id": "w0376",
+    "en": "splurge",
+    "ipa": "/splɜːrdʒ/",
+    "ko": "큰돈 쓰다",
+    "hint": "spend a lot at once"
+  },
+  {
+    "id": "w0377",
+    "en": "save up",
+    "ipa": "/seɪv ʌp/",
+    "ko": "돈을 모으다",
+    "hint": "save money over time"
+  },
+  {
+    "id": "w0378",
+    "en": "value for money",
+    "ipa": "/ˈvæljuː fər ˈmʌni/",
+    "ko": "돈값",
+    "hint": "worth the price"
+  },
+  {
+    "id": "w0379",
+    "en": "public transportation",
+    "ipa": "/ˈpʌblɪk ˌtrænspərˈteɪʃən/",
+    "ko": "대중교통",
+    "hint": "bus/subway"
+  },
+  {
+    "id": "w0380",
+    "en": "traffic congestion",
+    "ipa": "/ˈtræfɪk kənˈdʒɛstʃən/",
+    "ko": "교통 체증",
+    "hint": "congested roads"
+  },
+  {
+    "id": "w0381",
+    "en": "commuter",
+    "ipa": "/kəˈmjuːtər/",
+    "ko": "통근자",
+    "hint": "someone who commutes"
+  },
+  {
+    "id": "w0382",
+    "en": "pedestrian-friendly",
+    "ipa": "/pəˈdɛstriən ˈfrɛndli/",
+    "ko": "보행자 친화적인",
+    "hint": "walkable"
+  },
+  {
+    "id": "w0383",
+    "en": "air pollution",
+    "ipa": "/ɛr pəˈluːʃən/",
+    "ko": "대기오염",
+    "hint": "smog"
+  },
+  {
+    "id": "w0384",
+    "en": "carbon footprint",
+    "ipa": "/ˈkɑːrbən ˈfʊtprɪnt/",
+    "ko": "탄소 발자국",
+    "hint": "environment impact"
+  },
+  {
+    "id": "w0385",
+    "en": "renewable energy",
+    "ipa": "/rɪˈnuːəbl ˈɛnərdʒi/",
+    "ko": "재생에너지",
+    "hint": "solar/wind"
+  },
+  {
+    "id": "w0386",
+    "en": "sustainable",
+    "ipa": "/səˈsteɪnəbl/",
+    "ko": "지속 가능한",
+    "hint": "sustainability"
+  },
+  {
+    "id": "w0387",
+    "en": "recycle",
+    "ipa": "/ˌriːˈsaɪkəl/",
+    "ko": "재활용하다",
+    "hint": "reduce/reuse/recycle"
+  },
+  {
+    "id": "w0388",
+    "en": "single-use plastic",
+    "ipa": "/ˌsɪŋɡəl juːs ˈplæstɪk/",
+    "ko": "일회용 플라스틱",
+    "hint": "plastic waste"
+  },
+  {
+    "id": "w0389",
+    "en": "take it for granted",
+    "ipa": "/teɪk ɪt fər ˈɡræntɪd/",
+    "ko": "당연하게 여기다",
+    "hint": "appreciate less"
+  },
+  {
+    "id": "w0390",
+    "en": "broaden my horizons",
+    "ipa": "/ˈbrɔːdən maɪ həˈraɪzənz/",
+    "ko": "시야를 넓히다",
+    "hint": "travel/learning phrase"
   }
 ]
