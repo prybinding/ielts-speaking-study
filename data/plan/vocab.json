@@ -2728,5 +2728,215 @@
     "ipa": "/ˈbrɔːdən maɪ həˈraɪzənz/",
     "ko": "시야를 넓히다",
     "hint": "travel/learning phrase"
+  },
+  {
+    "id": "w0391",
+    "en": "work-life balance",
+    "ipa": "/ˌwɜːrk laɪf ˈbæləns/",
+    "ko": "일과 삶의 균형",
+    "hint": "balance=균형"
+  },
+  {
+    "id": "w0392",
+    "en": "burnout",
+    "ipa": "/ˈbɜːrnaʊt/",
+    "ko": "번아웃",
+    "hint": "burn out=불타서 꺼지다"
+  },
+  {
+    "id": "w0393",
+    "en": "productivity",
+    "ipa": "/ˌproʊdʌkˈtɪvəti/",
+    "ko": "생산성",
+    "hint": "productive"
+  },
+  {
+    "id": "w0394",
+    "en": "deadline",
+    "ipa": "/ˈdedlaɪn/",
+    "ko": "마감일",
+    "hint": "dead+line(넘으면 큰일)"
+  },
+  {
+    "id": "w0395",
+    "en": "prioritize",
+    "ipa": "/praɪˈɔːrətaɪz/",
+    "ko": "우선순위를 정하다",
+    "hint": "priority"
+  },
+  {
+    "id": "w0396",
+    "en": "flexible",
+    "ipa": "/ˈfleksəbəl/",
+    "ko": "유연한",
+    "hint": "flex=유연"
+  },
+  {
+    "id": "w0397",
+    "en": "remote work",
+    "ipa": "/rɪˈmoʊt wɜːrk/",
+    "ko": "원격 근무",
+    "hint": "remote=원격"
+  },
+  {
+    "id": "w0398",
+    "en": "collaborate",
+    "ipa": "/kəˈlæbəreɪt/",
+    "ko": "협업하다",
+    "hint": "co+labor"
+  },
+  {
+    "id": "w0399",
+    "en": "efficient",
+    "ipa": "/ɪˈfɪʃənt/",
+    "ko": "효율적인",
+    "hint": "efficiency"
+  },
+  {
+    "id": "w0400",
+    "en": "time-consuming",
+    "ipa": "/ˈtaɪm kənˌsuːmɪŋ/",
+    "ko": "시간이 많이 드는",
+    "hint": "consume time"
+  },
+  {
+    "id": "w0401",
+    "en": "inconvenient",
+    "ipa": "/ˌɪnkənˈviːniənt/",
+    "ko": "불편한",
+    "hint": "not convenient"
+  },
+  {
+    "id": "w0402",
+    "en": "affordable",
+    "ipa": "/əˈfɔːrdəbəl/",
+    "ko": "가격이 부담 없는",
+    "hint": "afford=감당하다"
+  },
+  {
+    "id": "w0403",
+    "en": "overpriced",
+    "ipa": "/ˌoʊvərˈpraɪst/",
+    "ko": "터무니없이 비싼",
+    "hint": "over+price"
+  },
+  {
+    "id": "w0404",
+    "en": "budget",
+    "ipa": "/ˈbʌdʒɪt/",
+    "ko": "예산",
+    "hint": "budge? (돈이 안 움직임)"
+  },
+  {
+    "id": "w0405",
+    "en": "save up",
+    "ipa": "/seɪv ʌp/",
+    "ko": "(돈을) 모으다",
+    "hint": "save=저축"
+  },
+  {
+    "id": "w0406",
+    "en": "splurge",
+    "ipa": "/splɜːrdʒ/",
+    "ko": "큰돈을 쓰다",
+    "hint": "한 번에 확 쓰다"
+  },
+  {
+    "id": "w0407",
+    "en": "eco-friendly",
+    "ipa": "/ˌiːkoʊ ˈfrendli/",
+    "ko": "친환경적인",
+    "hint": "eco=ecology"
+  },
+  {
+    "id": "w0408",
+    "en": "recycle",
+    "ipa": "/ˌriːˈsaɪkəl/",
+    "ko": "재활용하다",
+    "hint": "cycle=순환"
+  },
+  {
+    "id": "w0409",
+    "en": "public transportation",
+    "ipa": "/ˈpʌblɪk ˌtrænspɔːrˈteɪʃən/",
+    "ko": "대중교통",
+    "hint": "public transport"
+  },
+  {
+    "id": "w0410",
+    "en": "traffic jam",
+    "ipa": "/ˈtræfɪk dʒæm/",
+    "ko": "교통 체증",
+    "hint": "jam=꽉 막힘"
+  },
+  {
+    "id": "w0411",
+    "en": "commuter",
+    "ipa": "/kəˈmjuːtər/",
+    "ko": "통근자",
+    "hint": "commute+er"
+  },
+  {
+    "id": "w0412",
+    "en": "get around",
+    "ipa": "/ɡet əˈraʊnd/",
+    "ko": "이동하다/돌아다니다",
+    "hint": "around=이곳저곳"
+  },
+  {
+    "id": "w0413",
+    "en": "pick up a hobby",
+    "ipa": "/pɪk ʌp ə ˈhɑːbi/",
+    "ko": "취미를 시작하다",
+    "hint": "pick up=새로 시작"
+  },
+  {
+    "id": "w0414",
+    "en": "stay in shape",
+    "ipa": "/steɪ ɪn ʃeɪp/",
+    "ko": "몸매/건강을 유지하다",
+    "hint": "shape=컨디션"
+  },
+  {
+    "id": "w0415",
+    "en": "work out",
+    "ipa": "/wɜːrk aʊt/",
+    "ko": "운동하다",
+    "hint": "헬스장에서 workout"
+  },
+  {
+    "id": "w0416",
+    "en": "balanced diet",
+    "ipa": "/ˌbælənst ˈdaɪət/",
+    "ko": "균형 잡힌 식단",
+    "hint": "balance + diet"
+  },
+  {
+    "id": "w0417",
+    "en": "socialize",
+    "ipa": "/ˈsoʊʃəlaɪz/",
+    "ko": "사교하다",
+    "hint": "social"
+  },
+  {
+    "id": "w0418",
+    "en": "catch up with",
+    "ipa": "/kætʃ ʌp wɪð/",
+    "ko": "~와 근황을 나누다",
+    "hint": "catch up=따라잡다→근황"
+  },
+  {
+    "id": "w0419",
+    "en": "reliable",
+    "ipa": "/rɪˈlaɪəbəl/",
+    "ko": "믿을 만한",
+    "hint": "rely on"
+  },
+  {
+    "id": "w0420",
+    "en": "stressful",
+    "ipa": "/ˈstresfəl/",
+    "ko": "스트레스 받는",
+    "hint": "stress+ful"
   }
 ]
