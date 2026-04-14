@@ -2938,5 +2938,215 @@
     "ipa": "/ˈstresfəl/",
     "ko": "스트레스 받는",
     "hint": "stress+ful"
+  },
+  {
+    "id": "w0421",
+    "en": "efficient",
+    "ipa": "/ɪˈfɪʃənt/",
+    "ko": "효율적인",
+    "hint": "effectively, with little waste"
+  },
+  {
+    "id": "w0422",
+    "en": "productive",
+    "ipa": "/prəˈdʌktɪv/",
+    "ko": "생산적인",
+    "hint": "produce+ive (성과 내는)"
+  },
+  {
+    "id": "w0423",
+    "en": "distracted",
+    "ipa": "/dɪˈstræktɪd/",
+    "ko": "집중이 흐트러진",
+    "hint": "dis+tract(끌다) → 주의가 끌린"
+  },
+  {
+    "id": "w0424",
+    "en": "prioritize",
+    "ipa": "/praɪˈɔːrətaɪz/",
+    "ko": "우선순위를 두다",
+    "hint": "priority+ize"
+  },
+  {
+    "id": "w0425",
+    "en": "deadline",
+    "ipa": "/ˈdedlaɪn/",
+    "ko": "마감일",
+    "hint": "dead+line (넘기면 끝)"
+  },
+  {
+    "id": "w0426",
+    "en": "overwhelmed",
+    "ipa": "/ˌoʊvərˈwelmd/",
+    "ko": "압도된",
+    "hint": "over+whelm"
+  },
+  {
+    "id": "w0427",
+    "en": "burnout",
+    "ipa": "/ˈbɜːrnaʊt/",
+    "ko": "번아웃",
+    "hint": "burn out"
+  },
+  {
+    "id": "w0428",
+    "en": "balance",
+    "ipa": "/ˈbæl.əns/",
+    "ko": "균형, 균형을 맞추다",
+    "hint": "work-life balance"
+  },
+  {
+    "id": "w0429",
+    "en": "flexible",
+    "ipa": "/ˈfleksəbəl/",
+    "ko": "유연한",
+    "hint": "flex(구부리다)"
+  },
+  {
+    "id": "w0430",
+    "en": "strict",
+    "ipa": "/strɪkt/",
+    "ko": "엄격한",
+    "hint": "strict rules"
+  },
+  {
+    "id": "w0431",
+    "en": "consistent",
+    "ipa": "/kənˈsɪstənt/",
+    "ko": "일관된",
+    "hint": "consist+ent"
+  },
+  {
+    "id": "w0432",
+    "en": "habit",
+    "ipa": "/ˈhæbɪt/",
+    "ko": "습관",
+    "hint": "small habits"
+  },
+  {
+    "id": "w0433",
+    "en": "motivation",
+    "ipa": "/ˌmoʊtɪˈveɪʃən/",
+    "ko": "동기",
+    "hint": "motive+ation"
+  },
+  {
+    "id": "w0434",
+    "en": "discipline",
+    "ipa": "/ˈdɪsəplɪn/",
+    "ko": "자기관리, 규율",
+    "hint": "do it even when you don't feel like it"
+  },
+  {
+    "id": "w0435",
+    "en": "procrastinate",
+    "ipa": "/prəˈkræstɪneɪt/",
+    "ko": "미루다",
+    "hint": "pro+crasti(내일) → 내일로 미룸"
+  },
+  {
+    "id": "w0436",
+    "en": "appointment",
+    "ipa": "/əˈpɔɪntmənt/",
+    "ko": "약속, 예약",
+    "hint": "appoint+ment"
+  },
+  {
+    "id": "w0437",
+    "en": "reschedule",
+    "ipa": "/ˌriːˈskedʒuːl/",
+    "ko": "일정을 다시 잡다",
+    "hint": "re+schedule"
+  },
+  {
+    "id": "w0438",
+    "en": "committed",
+    "ipa": "/kəˈmɪtɪd/",
+    "ko": "전념하는, 헌신한",
+    "hint": "commit+ed"
+  },
+  {
+    "id": "w0439",
+    "en": "responsible",
+    "ipa": "/rɪˈspɑːnsəbəl/",
+    "ko": "책임감 있는",
+    "hint": "response+ible"
+  },
+  {
+    "id": "w0440",
+    "en": "reliable",
+    "ipa": "/rɪˈlaɪəbəl/",
+    "ko": "믿을 수 있는",
+    "hint": "rely+able"
+  },
+  {
+    "id": "w0441",
+    "en": "supportive",
+    "ipa": "/səˈpɔːrtɪv/",
+    "ko": "지지해주는",
+    "hint": "support+ive"
+  },
+  {
+    "id": "w0442",
+    "en": "encourage",
+    "ipa": "/ɪnˈkɜːrɪdʒ/",
+    "ko": "격려하다",
+    "hint": "en+courage(용기)"
+  },
+  {
+    "id": "w0443",
+    "en": "challenge",
+    "ipa": "/ˈtʃælɪndʒ/",
+    "ko": "도전, 도전하다",
+    "hint": "a good challenge"
+  },
+  {
+    "id": "w0444",
+    "en": "improve",
+    "ipa": "/ɪmˈpruːv/",
+    "ko": "개선하다",
+    "hint": "in+prove → 더 낫게"
+  },
+  {
+    "id": "w0445",
+    "en": "progress",
+    "ipa": "/ˈprɑːɡres/",
+    "ko": "진전, 진척",
+    "hint": "step-by-step progress"
+  },
+  {
+    "id": "w0446",
+    "en": "regret",
+    "ipa": "/rɪˈɡret/",
+    "ko": "후회하다",
+    "hint": "re+gret"
+  },
+  {
+    "id": "w0447",
+    "en": "satisfied",
+    "ipa": "/ˈsætɪsfaɪd/",
+    "ko": "만족한",
+    "hint": "satisfy+ed"
+  },
+  {
+    "id": "w0448",
+    "en": "frustrated",
+    "ipa": "/ˈfrʌstreɪtɪd/",
+    "ko": "좌절한",
+    "hint": "frustrate+ed"
+  },
+  {
+    "id": "w0449",
+    "en": "rewarding",
+    "ipa": "/rɪˈwɔːrdɪŋ/",
+    "ko": "보람 있는",
+    "hint": "reward+ing"
+  },
+  {
+    "id": "w0450",
+    "en": "meaningful",
+    "ipa": "/ˈmiːnɪŋfəl/",
+    "ko": "의미 있는",
+    "hint": "meaning+ful"
   }
 ]
