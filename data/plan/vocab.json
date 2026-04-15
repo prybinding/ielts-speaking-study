@@ -3148,5 +3148,215 @@
     "ipa": "/ˈmiːnɪŋfəl/",
     "ko": "의미 있는",
     "hint": "meaning+ful"
+  },
+  {
+    "id": "w0451",
+    "en": "sustainable",
+    "ipa": "/səˈsteɪnəbəl/",
+    "ko": "지속 가능한",
+    "hint": "sustain+able"
+  },
+  {
+    "id": "w0452",
+    "en": "reliable",
+    "ipa": "/rɪˈlaɪəbəl/",
+    "ko": "신뢰할 수 있는",
+    "hint": "rely+able"
+  },
+  {
+    "id": "w0453",
+    "en": "efficient",
+    "ipa": "/ɪˈfɪʃənt/",
+    "ko": "효율적인",
+    "hint": "efficiency"
+  },
+  {
+    "id": "w0454",
+    "en": "convenient",
+    "ipa": "/kənˈviːniənt/",
+    "ko": "편리한",
+    "hint": "convenience"
+  },
+  {
+    "id": "w0455",
+    "en": "affordable",
+    "ipa": "/əˈfɔːrdəbəl/",
+    "ko": "부담 없는(가격)",
+    "hint": "afford+able"
+  },
+  {
+    "id": "w0456",
+    "en": "overwhelming",
+    "ipa": "/ˌoʊvərˈwelmɪŋ/",
+    "ko": "압도적인",
+    "hint": "over+whelm"
+  },
+  {
+    "id": "w0457",
+    "en": "challenge",
+    "ipa": "/ˈtʃælɪndʒ/",
+    "ko": "도전, 도전하다",
+    "hint": "challenging"
+  },
+  {
+    "id": "w0458",
+    "en": "improve",
+    "ipa": "/ɪmˈpruːv/",
+    "ko": "개선하다",
+    "hint": "improvement"
+  },
+  {
+    "id": "w0459",
+    "en": "maintain",
+    "ipa": "/meɪnˈteɪn/",
+    "ko": "유지하다",
+    "hint": "maintenance"
+  },
+  {
+    "id": "w0460",
+    "en": "interrupt",
+    "ipa": "/ˌɪntəˈrʌpt/",
+    "ko": "방해하다",
+    "hint": "interruption"
+  },
+  {
+    "id": "w0461",
+    "en": "flexible",
+    "ipa": "/ˈfleksəbəl/",
+    "ko": "유연한",
+    "hint": "flex(구부리다)"
+  },
+  {
+    "id": "w0462",
+    "en": "adapt",
+    "ipa": "/əˈdæpt/",
+    "ko": "적응하다",
+    "hint": "adaptation"
+  },
+  {
+    "id": "w0463",
+    "en": "recommend",
+    "ipa": "/ˌrekəˈmend/",
+    "ko": "추천하다",
+    "hint": "recommendation"
+  },
+  {
+    "id": "w0464",
+    "en": "consider",
+    "ipa": "/kənˈsɪdər/",
+    "ko": "고려하다",
+    "hint": "consideration"
+  },
+  {
+    "id": "w0465",
+    "en": "prioritize",
+    "ipa": "/praɪˈɔːrətaɪz/",
+    "ko": "우선순위를 두다",
+    "hint": "priority+ize"
+  },
+  {
+    "id": "w0466",
+    "en": "negotiate",
+    "ipa": "/nɪˈɡoʊʃieɪt/",
+    "ko": "협상하다",
+    "hint": "negotiation"
+  },
+  {
+    "id": "w0467",
+    "en": "cooperate",
+    "ipa": "/koʊˈɑːpəreɪt/",
+    "ko": "협력하다",
+    "hint": "co+operate"
+  },
+  {
+    "id": "w0468",
+    "en": "compromise",
+    "ipa": "/ˈkɑːmprəmaɪz/",
+    "ko": "타협하다",
+    "hint": "middle ground"
+  },
+  {
+    "id": "w0469",
+    "en": "respectful",
+    "ipa": "/rɪˈspektfəl/",
+    "ko": "존중하는, 예의 바른",
+    "hint": "respect+ful"
+  },
+  {
+    "id": "w0470",
+    "en": "honest",
+    "ipa": "/ˈɑːnɪst/",
+    "ko": "정직한",
+    "hint": "honesty"
+  },
+  {
+    "id": "w0471",
+    "en": "encourage",
+    "ipa": "/ɪnˈkɜːrɪdʒ/",
+    "ko": "격려하다",
+    "hint": "courage"
+  },
+  {
+    "id": "w0472",
+    "en": "motivate",
+    "ipa": "/ˈmoʊtɪveɪt/",
+    "ko": "동기부여하다",
+    "hint": "motive"
+  },
+  {
+    "id": "w0473",
+    "en": "distract",
+    "ipa": "/dɪˈstrækt/",
+    "ko": "집중을 흐트리다",
+    "hint": "dis+tract(끌다)"
+  },
+  {
+    "id": "w0474",
+    "en": "focus",
+    "ipa": "/ˈfoʊkəs/",
+    "ko": "집중하다",
+    "hint": "stay focused"
+  },
+  {
+    "id": "w0475",
+    "en": "balance",
+    "ipa": "/ˈbæləns/",
+    "ko": "균형, 균형 잡다",
+    "hint": "work-life balance"
+  },
+  {
+    "id": "w0476",
+    "en": "habit",
+    "ipa": "/ˈhæbɪt/",
+    "ko": "습관",
+    "hint": "habit=버릇"
+  },
+  {
+    "id": "w0477",
+    "en": "deadline",
+    "ipa": "/ˈdedlaɪn/",
+    "ko": "마감기한",
+    "hint": "dead+line"
+  },
+  {
+    "id": "w0478",
+    "en": "pressure",
+    "ipa": "/ˈpreʃər/",
+    "ko": "압박",
+    "hint": "under pressure"
+  },
+  {
+    "id": "w0479",
+    "en": "regret",
+    "ipa": "/rɪˈɡret/",
+    "ko": "후회하다",
+    "hint": "regret"
+  },
+  {
+    "id": "w0480",
+    "en": "willing",
+    "ipa": "/ˈwɪlɪŋ/",
+    "ko": "기꺼이 ~하는",
+    "hint": "be willing to"
   }
 ]
